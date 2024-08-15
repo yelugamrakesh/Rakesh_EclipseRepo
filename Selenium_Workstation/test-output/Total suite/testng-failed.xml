@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Total suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="tests" name="Smoke Test firefox(failed)">
+    <parameter name="browser" value="Fire"/>
+    <groups>
+      <run>
+        <include name="practice"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="Selenium_Topics.Parallel4">
+        <methods>
+          <include name="methods1"/>
+        </methods>
+      </class> <!-- Selenium_Topics.Parallel4 -->
+    </classes>
+  </test> <!-- Smoke Test firefox(failed) -->
+</suite> <!-- Failed suite [Total suite] -->

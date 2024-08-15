@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-17T03:49:23 IST" name="Default suite" finished-at="2023-04-17T03:49:23 IST" duration-ms="54">
+    <groups>
+    </groups>
+    <test started-at="2023-04-17T03:49:23 IST" name="Default test" finished-at="2023-04-17T03:49:23 IST" duration-ms="54">
+      <class name="Com.TestNG.Demo_TestNG">
+        <test-method is-config="true" signature="M11()[pri:0, instance:Com.TestNG.Demo_TestNG@6892b3b6]" started-at="2023-04-17T03:49:23 IST" name="M11" finished-at="2023-04-17T03:49:23 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- M11 -->
+        <test-method is-config="true" signature="mt()[pri:0, instance:Com.TestNG.Demo_TestNG@6892b3b6]" started-at="2023-04-17T03:49:23 IST" name="mt" finished-at="2023-04-17T03:49:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mt -->
+        <test-method is-config="true" signature="M1()[pri:0, instance:Com.TestNG.Demo_TestNG@6892b3b6]" started-at="2023-04-17T03:49:23 IST" name="M1" finished-at="2023-04-17T03:49:23 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- M1 -->
+        <test-method is-config="true" signature="M13()[pri:0, instance:Com.TestNG.Demo_TestNG@6892b3b6]" started-at="2023-04-17T03:49:23 IST" name="M13" finished-at="2023-04-17T03:49:23 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- M13 -->
+        <test-method signature="M2()[pri:0, instance:Com.TestNG.Demo_TestNG@6892b3b6]" started-at="2023-04-17T03:49:23 IST" name="M2" finished-at="2023-04-17T03:49:23 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- M2 -->
+        <test-method is-config="true" signature="M14()[pri:0, instance:Com.TestNG.Demo_TestNG@6892b3b6]" started-at="2023-04-17T03:49:23 IST" name="M14" finished-at="2023-04-17T03:49:23 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- M14 -->
+        <test-method is-config="true" signature="M13()[pri:0, instance:Com.TestNG.Demo_TestNG@6892b3b6]" started-at="2023-04-17T03:49:23 IST" name="M13" finished-at="2023-04-17T03:49:23 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- M13 -->
+        <test-method signature="M4()[pri:0, instance:Com.TestNG.Demo_TestNG@6892b3b6]" started-at="2023-04-17T03:49:23 IST" name="M4" finished-at="2023-04-17T03:49:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- M4 -->
+        <test-method is-config="true" signature="M14()[pri:0, instance:Com.TestNG.Demo_TestNG@6892b3b6]" started-at="2023-04-17T03:49:23 IST" name="M14" finished-at="2023-04-17T03:49:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- M14 -->
+        <test-method is-config="true" signature="M3()[pri:0, instance:Com.TestNG.Demo_TestNG@6892b3b6]" started-at="2023-04-17T03:49:23 IST" name="M3" finished-at="2023-04-17T03:49:23 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- M3 -->
+        <test-method is-config="true" signature="mAt()[pri:0, instance:Com.TestNG.Demo_TestNG@6892b3b6]" started-at="2023-04-17T03:49:23 IST" name="mAt" finished-at="2023-04-17T03:49:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mAt -->
+        <test-method is-config="true" signature="M12()[pri:0, instance:Com.TestNG.Demo_TestNG@6892b3b6]" started-at="2023-04-17T03:49:23 IST" name="M12" finished-at="2023-04-17T03:49:23 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- M12 -->
+      </class> <!-- Com.TestNG.Demo_TestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

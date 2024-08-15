@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Selenium_Topics.Action_KeyboardEvent"/>
+      <class name="Selenium_Topics.Window_Tabs"/>
+      <class name="Selenium_Topics.Implicitwait"/>
+      <class name="TestNG_workstation.Assertions"/>
+      <class name="Com.BankProject.Login"/>
+      <class name="Selenium_Topics.Frames"/>
+      <class name="TestNG_workstation.TestNgXML"/>
+      <class name="TestNG_workstation.TestMethod"/>
+      <class name="Selenium_Topics.JavaScriptExecutor"/>
+      <class name="Selenium_Topics.Dropdowns"/>
+      <class name="Selenium_Topics.Alerts"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
