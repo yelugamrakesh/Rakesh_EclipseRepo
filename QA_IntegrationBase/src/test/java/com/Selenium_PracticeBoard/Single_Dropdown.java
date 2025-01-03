@@ -13,16 +13,10 @@ public class Single_Dropdown {
 
 	public static void main(String[] args) throws Exception {
 
-		WebDriverManager.chromedriver().setup();
-		WebDriver driver = new ChromeDriver();
+		System.setProperty("webdriver.chrome.driver", "\\Drivers\\chromedriver.exe");
+		WebDriver driver =new ChromeDriver();
 		driver.manage().window().maximize();
-		driver.get("https://www.letskodeit.com/practice");
-
-		WebElement dropdown = driver.findElement(By.id("carselect"));
-		Select s = new Select(dropdown);
-		Thread.sleep(3000);
-		s.selectByVisibleText("BMW");
-		driver.quit();
+		
 	}
 
 }

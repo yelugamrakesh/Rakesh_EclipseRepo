@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.Selenium_PracticeBoard.Single_Dropdown">
+      <class name="Mouse_Keyboard_Events.click_Method">
         <methods>
-          <include name="InitiaizeBrowser"/>
-          <include name="Single_Dropdown_Method"/>
-          <include name="Close_Browser"/>
+          <include name="terminate"/>
+          <include name="setupbrowser"/>
+          <include name="clickMethod"/>
         </methods>
-      </class> <!-- com.Selenium_PracticeBoard.Single_Dropdown -->
+      </class> <!-- Mouse_Keyboard_Events.click_Method -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
